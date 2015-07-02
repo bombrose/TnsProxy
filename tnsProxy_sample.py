@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Python oracle Tns proxy.
+https://github.com/bombrose/TnsProxy
 '''
 import socket, thread, select
 
